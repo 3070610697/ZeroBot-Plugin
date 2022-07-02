@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	
+	"github.com/FloatTech/ZeroBot-Plugin/kanban" // 在最前打印 banner
 
 	// ---------以下插件均可通过前面加 // 注释，注释后停用并不加载插件--------- //
 	// ----------------------插件优先级按顺序从高到低---------------------- //
@@ -113,7 +113,6 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wordle"         // 猜单词
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal"          // 月幕galgame
         _ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"            // 鬼东西
-        _ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili_push"  // b站推送
         _ "github.com/FloatTech/ZeroBot-Plugin/plugin/diana"          //  嘉然
         _ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"          //爱妻
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/curse"           //骂人
