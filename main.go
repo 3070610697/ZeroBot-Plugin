@@ -16,8 +16,6 @@ import (
 	//                                                                  //
 	//                                                                  //
 	//                                                                  //
-	//                                                                  //
-	//                                                                  //
 	// ----------------------------高优先级区---------------------------- //
 	// vvvvvvvvvvvvvvvvvvvvvvvvvvvv高优先级区vvvvvvvvvvvvvvvvvvvvvvvvvvvv //
 	//               vvvvvvvvvvvvvv高优先级区vvvvvvvvvvvvvv               //
@@ -114,11 +112,10 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/word_count"     // 聊天热词
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wordle"         // 猜单词
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal"          // 月幕galgame
-
-	 _ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"            // 鬼东西
-	 _ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili_push"  // b站推送
-	 _ "github.com/FloatTech/ZeroBot-Plugin/plugin/diana"//           //  嘉然
-	 _ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"          //爱妻
+        _ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"            // 鬼东西
+        _ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili_push"  // b站推送
+        _ "github.com/FloatTech/ZeroBot-Plugin/plugin/diana"          //  嘉然
+        _ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"          //爱妻
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/curse"           //骂人
 
 	//                               ^^^^                               //
