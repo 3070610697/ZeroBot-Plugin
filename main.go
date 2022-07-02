@@ -117,7 +117,7 @@ import (
 
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"            // 鬼东西
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili_push"  // b站推送
-	//"github.com/FloatTech/ZeroBot-Plugin/plugin/diana"//           //  嘉然
+	// "github.com/FloatTech/ZeroBot-Plugin/plugin/diana"//           //  嘉然
 
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
